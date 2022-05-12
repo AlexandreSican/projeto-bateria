@@ -2,7 +2,7 @@
 ## :hammer: Funcionalidades do projeto
 Projeto criado junto ao curso da b7web para Js
 
-HTML e CSS
+HTML, CSS e JS
 
 eventListeners: observadores de evento para executar função
 
