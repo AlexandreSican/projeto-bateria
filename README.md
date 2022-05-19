@@ -16,4 +16,8 @@ adicionar e remover elemento pelo JavaScript
 
 setTimeout: temporizador
 
-Acesse em: https://alexandresican.github.io/projeto-bateria/
+Acesse em: <a href="https://alexandresican.github.io/projeto-bateria/" target="blank" >Aqui</a>
+
+# Página
+
+<img src="https://github.com/AlexandreSican/images/blob/main/bateria.jpg?raw=true"/>
